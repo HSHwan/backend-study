@@ -1,4 +1,4 @@
-package ch01;
+package part3.ch01;
 
 public class MovieDTO {
     // 상태정보, 멤버변수, 속성, ** property **

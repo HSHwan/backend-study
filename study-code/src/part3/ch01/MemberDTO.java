@@ -1,4 +1,4 @@
-package ch01;
+package part3.ch01;
 
 public class MemberDTO {
     private String name;

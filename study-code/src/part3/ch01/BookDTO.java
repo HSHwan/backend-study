@@ -1,4 +1,4 @@
-package ch01;
+package part3.ch01;
 
 public class BookDTO {
     private String title;

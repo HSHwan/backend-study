@@ -1,9 +1,15 @@
-package part3.ch01;
-// 객체(object) = 상태정보(멤버변수) + 행위정보(멤버메서드)
-public class Person {
+package part3.model;
+
+public class MemberDTO {
     private String name;
     private int age;
     private String phone;
+
+    public MemberDTO(String name, int age, String phone) {
+        this.name = name;
+        this.age = age;
+        this.phone = phone;
+    }
 
     public String getName() {
         return name;
@@ -31,14 +37,6 @@ public class Person {
 
     public void play() {
         System.out.println("운동을 한다.");
-    }
-
-    public void eat() {
-        System.out.println("음식을 먹다.");
-    }
-
-    public void walk() {
-        System.out.println("걷다.");
     }
 
     @Override

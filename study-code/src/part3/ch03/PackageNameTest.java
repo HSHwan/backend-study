@@ -12,6 +12,6 @@ public class PackageNameTest {
         Scanner scan = new Scanner(System.in);
         System system;
         // Q. 우리가 직접 만들어서 사용해 본 클래스들의 이름을 적어보자
-        CarDTO car = new CarDTO();
+//        CarDTO car = new CarDTO();
     }
 }

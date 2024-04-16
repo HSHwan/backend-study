@@ -41,7 +41,7 @@ public class PersonVO {
     @Override
     public String toString() {
         return  "name= " + name +
-                "\tage = " + age +
+                "\tage= " + age +
                 "\tphone= " + phone;
     }
 }

@@ -1,4 +1,4 @@
-package part4.ch01;
+package part4.ch02;
 
 import part4.model.Animal;
 import part4.model.Cat;

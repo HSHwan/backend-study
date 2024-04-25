@@ -11,5 +11,6 @@ public class ObjectCasting {
 
         animal = new Cat();
         animal.eat();
+        ((Cat)animal).night();
     }
 }

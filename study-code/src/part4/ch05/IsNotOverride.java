@@ -1,4 +1,4 @@
-package part4.ch04;
+package part4.ch05;
 
 import part4.poly.Animal;
 import part4.poly.Cat;

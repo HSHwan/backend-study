@@ -1,6 +1,6 @@
 package part4.poly;
 
-public class TV extends RemoCon {
+public class TV implements RemoCon {
     // chUp(), chDown(), volUp(), VolDown()
 
     @Override
@@ -21,5 +21,10 @@ public class TV extends RemoCon {
     @Override
     public void volDown() {
         System.out.println("TV 소리가 내려간다");
+    }
+
+    @Override
+    public void internet() {
+        System.out.println("TV에서 인터넷이 실행된다");
     }
 }

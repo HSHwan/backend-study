@@ -1,4 +1,4 @@
-package java.course1.part3.ch06;
+package oop.course1.part3.ch06;
 
 public class NonStaticTest {
 

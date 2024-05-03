@@ -1,4 +1,4 @@
-package java.course1.part4.model;
+package oop.course1.part4.model;
 // 일반사원(VO)
 public class RempVO extends Employee {
     public RempVO(String name, int age, String phone, String empDate, String dept, boolean marriage) {

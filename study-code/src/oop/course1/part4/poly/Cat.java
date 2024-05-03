@@ -1,4 +1,4 @@
-package java.course1.part4.poly;
+package oop.course1.part4.poly;
 
 public class Cat extends Animal {
     // 재정의를 하지 않음 ---> 오류입니다 (재정의를 하세요)

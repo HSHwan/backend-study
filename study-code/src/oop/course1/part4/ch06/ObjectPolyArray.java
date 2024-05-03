@@ -1,7 +1,7 @@
-package java.course1.part4.ch06;
+package oop.course1.part4.ch06;
 
-import java.course1.part4.poly.A;
-import java.course1.part4.poly.B;
+import oop.course1.part4.poly.A;
+import oop.course1.part4.poly.B;
 
 public class ObjectPolyArray {
 

@@ -1,4 +1,4 @@
-package java.course1.part4.model;
+package oop.course1.part4.model;
 
 public class Cat extends Animal {
 

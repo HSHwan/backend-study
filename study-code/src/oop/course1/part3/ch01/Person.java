@@ -1,4 +1,4 @@
-package java.course1.part3.ch01;
+package oop.course1.part3.ch01;
 // 객체(object) = 상태정보(멤버변수) + 행위정보(멤버메서드)
 public class Person {
     private String name;

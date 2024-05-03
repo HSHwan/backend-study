@@ -1,6 +1,6 @@
-package java.course1.part4.ch06;
+package oop.course1.part4.ch06;
 
-import java.course1.part4.poly.A;
+import oop.course1.part4.poly.A;
 
 public class ObjectTest {
 

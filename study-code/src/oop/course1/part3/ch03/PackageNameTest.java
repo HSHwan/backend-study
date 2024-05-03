@@ -1,4 +1,4 @@
-package java.course1.part3.ch03;
+package oop.course1.part3.ch03;
 
 import java.util.Scanner;
 

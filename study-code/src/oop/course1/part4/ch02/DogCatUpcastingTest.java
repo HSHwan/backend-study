@@ -1,8 +1,8 @@
-package java.course1.part4.ch02;
+package oop.course1.part4.ch02;
 
-import java.course1.part4.model.Animal;
-import java.course1.part4.model.Cat;
-import java.course1.part4.model.Dog;
+import oop.course1.part4.model.Animal;
+import oop.course1.part4.model.Cat;
+import oop.course1.part4.model.Dog;
 
 public class DogCatUpcastingTest {
     public static void main(String[] args) {

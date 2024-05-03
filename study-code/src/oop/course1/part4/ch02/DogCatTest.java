@@ -1,6 +1,6 @@
-package java.course1.part4.ch02;
+package oop.course1.part4.ch02;
 
-import java.course1.part4.model.*;
+import oop.course1.part4.model.*;
 
 public class DogCatTest {
 

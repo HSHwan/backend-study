@@ -1,4 +1,4 @@
-package java.course1.part4.poly;
+package oop.course1.part4.poly;
 // 추상클래스(불완전한 클래스)
 public abstract class Animal {
 

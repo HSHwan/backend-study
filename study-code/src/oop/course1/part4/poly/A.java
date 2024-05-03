@@ -1,4 +1,4 @@
-package java.course1.part4.poly;
+package oop.course1.part4.poly;
 
 public class A {
     public void display() {

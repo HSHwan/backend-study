@@ -1,7 +1,7 @@
-package java.course1.part4.ch01;
+package oop.course1.part4.ch01;
 
-import java.course1.part4.model.Employee;
-import java.course1.part4.model.RempVO;
+import oop.course1.part4.model.Employee;
+import oop.course1.part4.model.RempVO;
 
 public class EmployeeTest {
     public static void main(String[] args) {

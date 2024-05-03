@@ -1,8 +1,8 @@
-package java.course1.part4.ch05;
+package oop.course1.part4.ch05;
 
-import java.course1.part4.poly.Radio;
-import java.course1.part4.poly.RemoCon;
-import java.course1.part4.poly.TV;
+import oop.course1.part4.poly.Radio;
+import oop.course1.part4.poly.RemoCon;
+import oop.course1.part4.poly.TV;
 
 public class InterfaceTest {
 

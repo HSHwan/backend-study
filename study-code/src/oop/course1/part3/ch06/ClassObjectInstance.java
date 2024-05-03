@@ -1,6 +1,6 @@
-package java.course1.part3.ch06;
+package oop.course1.part3.ch06;
 
-import java.course1.part3.model.Student;
+import oop.course1.part3.model.Student;
 
 public class ClassObjectInstance {
 

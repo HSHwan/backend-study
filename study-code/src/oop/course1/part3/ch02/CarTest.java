@@ -1,6 +1,6 @@
-package java.course1.part3.ch02;
+package oop.course1.part3.ch02;
 
-import java.course1.part3.model.CarDTO;
+import oop.course1.part3.model.CarDTO;
 
 import java.util.Scanner;
 

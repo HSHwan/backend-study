@@ -1,6 +1,6 @@
-package java.course1.part3.ch04;
+package oop.course1.part3.ch04;
 
-import java.course1.part3.model.PersonVO;
+import oop.course1.part3.model.PersonVO;
 
 public class ToStringPrint {
     public static void main(String[] args) {

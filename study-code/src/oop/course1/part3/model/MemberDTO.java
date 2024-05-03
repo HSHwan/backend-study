@@ -1,4 +1,4 @@
-package java.course1.part3.model;
+package oop.course1.part3.model;
 
 public class MemberDTO {
     private String name;

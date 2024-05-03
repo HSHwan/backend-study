@@ -1,8 +1,8 @@
-package java.course1.part4.ch05;
+package oop.course1.part4.ch05;
 
-import java.course1.part4.poly.Animal;
-import java.course1.part4.poly.Cat;
-import java.course1.part4.poly.Dog;
+import oop.course1.part4.poly.Animal;
+import oop.course1.part4.poly.Cat;
+import oop.course1.part4.poly.Dog;
 
 public class AbstractClassTest {
 

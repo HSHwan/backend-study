@@ -1,4 +1,4 @@
-package java.course1.part4.model;
+package oop.course1.part4.model;
 // 사원(VO, DTO)
 public class Employee {
     private String name;

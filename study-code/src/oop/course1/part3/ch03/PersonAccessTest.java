@@ -1,6 +1,7 @@
-package java.course1.part3.ch03;
+package oop.course1.part3.ch03;
 
-import java.course1.part3.ch01.Person;
+
+import oop.course1.part3.ch01.Person;
 
 public class PersonAccessTest {
     public static void main(String[] args) {

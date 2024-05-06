@@ -10,7 +10,11 @@ public class ObjectArray {
 
     // 생성 동작
     public ObjectArray() {
-        elements = new Object[DEFAULT_CAPACITY]; // 5개 크기 배열
+        this(5);
+    }
+
+    public ObjectArray(int capacity) {
+        elements = new Object[capacity]; // 원하는 크기의 배열 생성
     }
 
     // 저장 동작

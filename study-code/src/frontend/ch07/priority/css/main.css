@@ -1,0 +1,9 @@
+div {
+    font-size: 70px;
+}
+div.hello {
+    color: green;
+}
+.hello {
+    color: red;
+}
